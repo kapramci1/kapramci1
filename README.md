@@ -1,4 +1,6 @@
-<img href="https://media.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif">
+<div align="center">
+  <img height="300" src="https://media.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif"  />
+</div>
 
 # 👨🏻‍💻 About Me
 I'm Oracle EBS developer. <br>I use Oracle Forms, Reports, Discoverer, BI Publisher, Workflow and APEX.<br>I want to share some APEX projects in there.
