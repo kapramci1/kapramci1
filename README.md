@@ -1,7 +1,10 @@
 # 👨🏻‍💻 About Me
 I'm Oracle EBS developer. <br>I use Oracle Forms, Reports, Discoverer, BI Publisher, Workflow and APEX.<br>I want to share some APEX projects in there.
 
-<img src="https://raw.githubusercontent.com/kapramci1/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kapramci1/kapramci1/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
