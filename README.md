@@ -3,11 +3,11 @@
 # 👨🏻‍💻 About Me
 I'm Oracle EBS developer. <br>I use Oracle Forms, Reports, Discoverer, BI Publisher, Workflow and APEX.<br>I want to share some APEX projects in there.
 
-<a href="https://github.com/topics/snake-game" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/183988963-6419249b-842a-4630-9de8-c71102a2ce67.svg" alt="java" /> </a> 
-
 ###
 
 <div align="center">
+  <a href="https://github.com/topics/snake-game" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/183988963-6419249b-842a-4630-9de8-c71102a2ce67.svg" alt="java" /> </a> 
+  
   <img src="https://profile-counter.glitch.me/kapramci1/count.svg?"  />
 </div>
 
