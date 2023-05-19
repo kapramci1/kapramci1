@@ -1,6 +1,6 @@
 # 👨🏻‍💻 About Me
 I'm Oracle EBS developer. <br>I use Oracle Forms, Reports, Discoverer, BI Publisher, Workflow and APEX.<br>I want to share some APEX projects in there.
---
+
 Ben Oracle EBS geliştiriciyim. <br>I use Oracle Forms, Reports, Discoverer, BI Publisher, Workflow and APEX development tools.<br>Burada bazı APEX projeleri paylaşmak istiyorum.
 
 
