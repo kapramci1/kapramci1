@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="gif" width="500" height="250"/>
+<img src="https://giphy.com/gifs/internet-computer-technology-CTX0ivSQbI78A" alt="gif" width="500" height="250"/>
 
 <iframe src="https://giphy.com/embed/CTX0ivSQbI78A" width="480" height="355" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/internet-computer-technology-CTX0ivSQbI78A">via GIPHY</a></p>
 
